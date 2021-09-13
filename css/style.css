@@ -8,6 +8,7 @@ body {
   padding: 5px;
   outline: none;
 }
+/* 
 .search-field:hover {
   outline: none;
   border: none;
@@ -23,8 +24,9 @@ body {
 .search-button {
   padding: 10px 50px;
   border-radius: 25px;
-  margin-left: 20px;
-}
+  margin-left: 20px; 
+} */
+
 #all-products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
